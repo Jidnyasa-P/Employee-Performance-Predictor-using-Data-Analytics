@@ -1,0 +1,8 @@
+{
+  "name": "PredictHR: Employee Performance Predictor",
+  "description": "An industry-grade HR Analytics tool that predicts employee performance bands and provides AI-driven professional development coaching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
